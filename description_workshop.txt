@@ -1,0 +1,31 @@
+[b]This is a server-side mod.[/b]
+
+[h1]Drop Alerts[/h1]
+In-game player chat & sound notifications for rare item drops.
+Based on [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3400340796]Pearlie's Rare Drop Notification[/url] dual-sided mod. Thanks Pearlie!
+
+* [url=https://steamcommunity.com/id/mznarnia/myworkshopfiles/?appid=1281930]Check out my other mods![/url]
+* [url=https://discord.gg/xAQGT4VetN]Discord Support Server[/url]
+* [url=https://github.com/xNarnia/DropAlerts]Source Code[/url]
+
+[h2]Features[/h2]
+[list]
+[*] Uses Terraria Localization for all language support
+[*] Entirely server-sided. No downloads needed! (Except for the host)
+[*] Server-stored configuration per player for enabling/disabling alerts
+[*] Player commands to edit your alert settings
+[*] Nearby players also get a notification and who dropped it (within 3000 units)
+[/list]
+
+[h2]Supported Languages[/h2]
+[list]
+[*] Deutsch
+[*] English
+[*] Español
+[*] Français
+[*] Italiano
+[*] Polski
+[*] Português
+[*] Русский
+[*] 简体中文
+[/list]

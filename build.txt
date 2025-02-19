@@ -1,0 +1,8 @@
+displayName = Drop Alerts (Server Side)
+author = Narnia
+version = 1.0
+homepage = https://steamcommunity.com/sharedfiles/filedetails/?id=3430623153
+side = server
+includeSource = true
+includePDB = true
+buildIgnore = .git/,.vs/,.bin/, src/

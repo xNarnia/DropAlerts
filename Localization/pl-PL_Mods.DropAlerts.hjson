@@ -1,0 +1,85 @@
+Configs: {
+	DAModConfig: {
+		DisplayName: Drop Alerts
+		EnableStarDropNoticeLabel: Włącz alert o pojawieniu się elementu
+		PercentStarLabel: Procent występowania przedmiotu
+
+		Enable1StarDropNotice: {
+			Label: 1 Star - {$Configs.DAModConfig.EnableStarDropNoticeLabel}
+			Tooltip: ""
+		}
+
+		Enable2StarDropNotice: {
+			Label: 2 Star - {$Configs.DAModConfig.EnableStarDropNoticeLabel}
+			Tooltip: ""
+		}
+
+		Enable3StarDropNotice: {
+			Label: 3 Star - {$Configs.DAModConfig.EnableStarDropNoticeLabel}
+			Tooltip: ""
+		}
+
+		Enable4StarDropNotice: {
+			Label: 4 Star - {$Configs.DAModConfig.EnableStarDropNoticeLabel}
+			Tooltip: ""
+		}
+
+		Percent1Star: {
+			Label: 1 Star - {$Configs.DAModConfig.PercentStarLabel}
+			Tooltip: ""
+		}
+
+		Percent2Star: {
+			Label: 2 Star - {$Configs.DAModConfig.PercentStarLabel}
+			Tooltip: ""
+		}
+
+		Percent3Star: {
+			Label: 3 Star - {$Configs.DAModConfig.PercentStarLabel}
+			Tooltip: ""
+		}
+
+		Percent4Star: {
+			Label: 4 Star - {$Configs.DAModConfig.PercentStarLabel}
+			Tooltip: ""
+		}
+	}
+
+	DAPlayerDataStorage: {
+		DisplayName: Player Data Storage
+
+		Data: {
+			Label: d
+			Tooltip: ""
+		}
+	}
+
+	PlayerConfigOptions: {
+		Tooltip: ""
+
+		IgnoreItems: {
+			Label: ii
+			Tooltip: ""
+		}
+
+		DropAlerts: {
+			Label: da
+			Tooltip: ""
+		}
+	}
+
+	PlayerDropAlertInfo: {
+		Tooltip: ""
+
+		DropAlertByte: {
+			Label: dab
+			Tooltip: ""
+		}
+	}
+}
+
+Commands: {
+	DisableDropAlertCmd.Description: Dezaktywacja powiadomienia o wyglądzie elementu.
+	EnableDropAlertCmd.Description: Aktywacja powiadomienia o wyglądzie elementu.
+	ShowDropAlerts.Description: Wyświetlanie powiadomień o wyglądzie aktywowanego elementu.
+}
