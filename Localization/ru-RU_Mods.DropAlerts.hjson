@@ -1,52 +1,52 @@
 Configs: {
 	DAModConfig: {
-		DisplayName: Drop Alerts
-		EnableStarDropNoticeLabel: Включить оповещение о спауне лута
-		PercentStarLabel: Процент триггера спавна лута
+		DisplayName: Уведомление о редкой добыче
+		EnableStarDropNoticeLabel: Включить уведомление о редкой добыче
+		PercentStarLabel: Процент выпадения для срабатывания
 
 		Enable1StarDropNotice: {
-			Label: 1 Star - {$Configs.DAModConfig.EnableStarDropNoticeLabel}
+			Label: 1 звезда — {$Configs.DAModConfig.EnableStarDropNoticeLabel}
 			Tooltip: ""
 		}
 
 		Enable2StarDropNotice: {
-			Label: 2 Star - {$Configs.DAModConfig.EnableStarDropNoticeLabel}
+			Label: 2 звезды — {$Configs.DAModConfig.EnableStarDropNoticeLabel}
 			Tooltip: ""
 		}
 
 		Enable3StarDropNotice: {
-			Label: 3 Star - {$Configs.DAModConfig.EnableStarDropNoticeLabel}
+			Label: 3 звезды — {$Configs.DAModConfig.EnableStarDropNoticeLabel}
 			Tooltip: ""
 		}
 
 		Enable4StarDropNotice: {
-			Label: 4 Star - {$Configs.DAModConfig.EnableStarDropNoticeLabel}
+			Label: 4 звезды — {$Configs.DAModConfig.EnableStarDropNoticeLabel}
 			Tooltip: ""
 		}
 
 		Percent1Star: {
-			Label: 1 Star - {$Configs.DAModConfig.PercentStarLabel}
+			Label: 1 звезда — {$Configs.DAModConfig.PercentStarLabel}
 			Tooltip: ""
 		}
 
 		Percent2Star: {
-			Label: 2 Star - {$Configs.DAModConfig.PercentStarLabel}
+			Label: 2 звезды — {$Configs.DAModConfig.PercentStarLabel}
 			Tooltip: ""
 		}
 
 		Percent3Star: {
-			Label: 3 Star - {$Configs.DAModConfig.PercentStarLabel}
+			Label: 3 звезды — {$Configs.DAModConfig.PercentStarLabel}
 			Tooltip: ""
 		}
 
 		Percent4Star: {
-			Label: 4 Star - {$Configs.DAModConfig.PercentStarLabel}
+			Label: 4 звезды — {$Configs.DAModConfig.PercentStarLabel}
 			Tooltip: ""
 		}
 	}
 
 	DAPlayerDataStorage: {
-		DisplayName: Player Data Storage
+		DisplayName: Хранилище данных игрока
 
 		Data: {
 			Label: d
