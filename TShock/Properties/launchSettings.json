@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DropAlerts": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Narnia\\Downloads\\TShock-5.2.1"
+    }
+  }
+}

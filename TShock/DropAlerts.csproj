@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>$(MSBuildProjectName)</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+    <Configurations>Debug</Configurations>
+    <RootNamespace>DropAlerts</RootNamespace>
+    <Version>1.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="TShock" Version="5.2.2" />
+  </ItemGroup>
+</Project>
